@@ -18,7 +18,7 @@
   - Gantt 차트(DHTMLX API), Kanban 보드 (Drag&Drop)
   - Ajax 기반 SPA 유사 구조 설계
   - 업무 엑셀 다운로드, 권한별 접근 제어 등
-- **VO 분리 구조 설계**: GanttTaskVO / KanbanTaskVO / ProjectTaskEntity
+  - VO 분리 구조 설계**: GanttTaskVO / KanbanTaskVO / ProjectTaskEntity
 
 ---
 
