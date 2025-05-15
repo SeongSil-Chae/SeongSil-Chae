@@ -8,7 +8,7 @@
 
 ## 🧑‍💻 주요 프로젝트
 
-### 🚀 [7FS 그룹웨어 협업 시스템](https://github.com/SeongSil-Chae/sevenfs-groupware)
+### 🚀 [7FS 그룹웨어 협업 시스템](https://github.com/SeongSil-Chae/GrooBear)
 > 기업 내 협업을 효율적으로 지원하는 웹 기반 그룹웨어 시스템
 
 - **담당 역할**: 프로젝트 관리 모듈 전담 개발, UI/UX 기획, 구조 설계
