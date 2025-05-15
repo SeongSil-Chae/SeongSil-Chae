@@ -77,11 +77,24 @@
 ---
 
 
-## 📚 교육 과정
+## 🎓 교육 과정 (대덕인재개발원)
 
-**전자정부프레임워크 & React 기반 풀스택 개발자 양성과정**  
-2024.10 ~ 2025.05 (총 1240시간)  
-> 기획/설계, ERD, JSP 기반 구현, React 기반 프론트 실습, 실무형 협업 프로젝트 수행
+> 2024.10 ~ 2025.05 (총 1240시간) 풀스택 기반 실무 프로젝트 중심 교육 과정
+
+**✔ 실무 중심 프로젝트 2회 진행**
+- 스킬업 프로젝트: JSP 기반 프로젝트 설계 및 구현, ERD 모델링 및 협업 개발 수행
+- AWS 기반 실무 프로젝트: Spring Boot + React 기반 업무 시스템, CI/CD 배포 및 시연 발표 경험
+
+**✔ 주요 커리큘럼**
+- **Java 프로그래밍**: 객체지향, 예외처리, 컬렉션, IO, JDBC, Servlet 기반 웹 프로그래밍
+- **JSP 기반 서버 구축**: EL/JSTL, MVC 구조, REST 패러다임 적용
+- **Spring REST 서버 구축**: Spring MVC, AOP, Boot, Security, Token 인증, API 테스트
+- **Vanilla JS & AJAX**: ES6, 비동기통신, DOM 제어, File API, jQuery 기반 UI 처리
+- **React/Node 서버 개발**: React Hooks, Router, 게시판 UI/UX, Express API 서버 연동
+- **RDB 설계 및 활용**: Oracle SQL, Join/서브쿼리, PL/SQL, 정규화 및 모델링
+- **UI 구현 및 웹표준**: 웹 레이아웃, CSS 레이아웃 구성, 반응형 구조 설계
+- **AWS & Docker**: 리눅스 서버 구성, Git/SVN, Jenkins CI/CD, Docker 컨테이너화
+- **데이터아키텍처**: ERD 모델링, 정규화/반정규화, 관계설계
 
 ---
 
