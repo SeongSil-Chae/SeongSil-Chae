@@ -120,6 +120,6 @@
 
 - 📧 Email: **decoro1002@gmail.com**
 - 📞 Phone: 010-3124-2812
-- 🔗 [GitHub](https://github.com/SeongSil-Chae)
+- 🔗 [최종 프로젝트 GitHub](https://github.com/SeongSil-Chae/GrooBear)
 - 📘 [이력서 PDF 보기](https://github.com/SeongSil-Chae/blob/main/2025년_이력서(채성실).pdf) ← 업로드 후 링크로 교체
 
