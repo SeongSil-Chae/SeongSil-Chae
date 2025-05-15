@@ -33,7 +33,7 @@
 
 ## 🛠 기술 스택
 
-<div align="center">
+<div align="left">
 
 ### 🔧 Backend
 
